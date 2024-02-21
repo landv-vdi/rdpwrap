@@ -1,5 +1,11 @@
 # RDP Wrapper Library by Stas'M
 
+关于win10和win11系统相关问题
+https://www.mysysadmintips.com/
+https://github.com/stascorp/rdpwrap/issues
+https://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10
+https://www.mysysadmintips.com/windows/clients/998-multiple-rdp-remote-desktop-sessions-in-windows-11
+
 [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/rdpwrap)
 ![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
 [![Release](https://img.shields.io/github/release/stascorp/rdpwrap.svg)](https://github.com/stascorp/rdpwrap/releases)
